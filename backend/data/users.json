@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin",
+    "role": "admin",
+    "name": "System Admin"
+  },
+  {
+    "id": 2,
+    "username": "user",
+    "password": "user",
+    "role": "user",
+    "name": "Default User"
+  },
+  {
+    "id": 3,
+    "username": "Dima",
+    "password": "123456",
+    "role": "user",
+    "name": "Dilmurodjon"
+  },
+  {
+    "id": 4,
+    "username": "Dilmurodjon",
+    "password": "123456",
+    "role": "admin",
+    "name": "Dilmurodjon"
+  },
+  {
+    "id": 5,
+    "username": "Ziya",
+    "password": "123456",
+    "role": "user",
+    "name": "Ziya"
+  }
+]
